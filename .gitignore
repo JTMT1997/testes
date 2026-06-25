@@ -1,0 +1,20 @@
+# Jangan commit file ini!
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache model HuggingFace
+.cache/
+~/.cache/
+
+# Virtual environment
+venv/
+env/
+<<<<<<< HEAD
+=======
+.env.example
+>>>>>>> e6c9d8d (-)
+.conda/
